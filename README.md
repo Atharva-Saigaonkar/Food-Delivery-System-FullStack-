@@ -15,12 +15,12 @@ Frontend: (React / HTML / CSS / JS)
 Backend: (Node.js / Express)  
 Database: (MongoDB)
 
-## 🛠 Tech Stack & Libraries
+##Libraries
 
 ### Frontend
 React Router DOM, Axios
 ### Backend
-Node.js, Express.js, Mongoose, JWT Authentication, bcryptjs, dotenv, CORS, Multer
+Mongoose, JWT Authentication, bcryptjs, dotenv, CORS, Multer
 
 ## 📦 Project Structure
 - frontend → User interface
